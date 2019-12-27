@@ -10,3 +10,4 @@ print('\nBrandon tiene 6 años')
 #git remote -v, para comprobar que se ha creado bien
 #git push -u origin master, subir al repositorio, la "u" hace que sea el principal
 #git clone (y la direccion) para clonar el archivo y crear carpeta
+#git pull (para bajar los repositorios en otra maquina, despues de haberla sincronizado)
