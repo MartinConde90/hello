@@ -1,5 +1,7 @@
 print('Hello, world')
 
+print('\nBrandon tiene 6 años')
+
 #git init
 #git status
 #git commit -m
@@ -7,3 +9,4 @@ print('Hello, world')
 #git remote add origin (y la direccion)
 #git remote -v, para comprobar que se ha creado bien
 #git push -u origin master, subir al repositorio, la "u" hace que sea el principal
+#git clone (y la direccion) para clonar el archivo y crear carpeta
